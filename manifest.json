@@ -1,7 +1,7 @@
 {
     "name": "Notificações Personalizadas",
     "short_name": "Notificações",
-    "start_url": "/",
+    "start_url": "/notifypwa/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007BFF",
